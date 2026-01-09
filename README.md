@@ -30,5 +30,5 @@ The model is trained using categorical cross-entropy loss and the Adamax optimiz
 ##Results
 The trained model is able to classify MRI images into tumor and non-tumor classes and provides confidence scores for predictions.
 
-#Technologies Used
+##Technologies Used
 Python, TensorFlow/Keras, NumPy, Scikit-learn, Matplotlib, PIL
