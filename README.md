@@ -8,9 +8,7 @@ Dataset
 
 The dataset is organized into two folders:
 
-brain_tumor_dataset/
- ├── yes/   (tumor images)
- └── no/    (non-tumor images)
+brain_tumor_dataset - yes (tumor images) and no (non-tumor images)
 
 
 All images are resized to 128×128 pixels and processed as RGB images. The data is split into 70% training and 30% testing.
